@@ -1,0 +1,25 @@
+// Default black theme
+
+// Color variables
+$red: #FA554E;
+$black: #22252F;
+$white: #E3EAEE;
+
+// Config
+$color-background: $black !default;
+$color-dot-accent: $white !default;
+$color-foreground: $white !default;
+$color-title: $red !default;
+$color-body-text: $black !default;
+$color-text-accent: $red !default;
+$color-code: $red !default;
+$color-nav-link: $white !default;
+$color-primary-link: $red !default;
+
+// Import sass partials (used in all themes)
+@import
+        "variables",
+        "base",
+        "components",
+        "utilities"
+;
