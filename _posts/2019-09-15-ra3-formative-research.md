@@ -64,7 +64,7 @@ Five competition assumptions
 - Resource pooling
 - Task differences
     - Some tasks require more resources
-- Preferenctial resource sharing
+- Preferential resource sharing
 - Resource-depletion penalty
     - Tasks lacking resources are slowed or terminated
 
