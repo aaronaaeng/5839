@@ -2,7 +2,7 @@
 layout: category-post
 title:  "RA3: Formative Research"
 date:   2019-09-15 12:10:00 -0700
-categories: 5839
+categories: general
 ---
 
 For this week's reading, I read *Research Contributions in Human-Computer Interaction*, *Interaction in 4-Second Bursts*, and *Cultural Probes*.  I selected the mobile interaction one because it sounded cool.  I selected the final article because I couldn't even guess what it was about.  The first paper was about the different types of contributions that can be made to HCI research.  This provided a good framework to understand the other two papers.

@@ -2,7 +2,7 @@
 layout: category-post
 title:  "A1: Create a Blog"
 date:   2019-09-11 12:10:00 -0700
-categories: 5839
+categories: general
 ---
 
 My name is Aaron Aaeng.  I use he/him pronouns.  
