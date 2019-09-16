@@ -2,7 +2,7 @@
 layout: category-post
 title:  "RA3: Formative Research"
 date:   2019-09-15 12:10:00 -0700
-categories: general
+categories: 5832
 ---
 
 For this week's reading, I read *Research Contributions in Human-Computer Interaction*, *Interaction in 4-Second Bursts*, and *Cultural Probes*.  I selected the mobile interaction one because it sounded cool.  I selected the final article because I couldn't even guess what it was about.  The first paper was about the different types of contributions that can be made to HCI research.  This provided a good framework to understand the other two papers.
@@ -15,65 +15,63 @@ For example, *Interaction in 4-Second Bursts* makes clear empirical contribution
 
 ## Research Contributions in Human-Computer Interaction
 Empirical Contributions
-    - Research based on data and observations
-    - Evaluated on significance and methodology
+- Research based on data and observations
+- Evaluated on significance and methodology
 
 Artifact Contributions
-    - Prototypes to show new techniques/solutions
-    - Sometimes accompanied by empirical studies
+- Prototypes to show new techniques/solutions
+- Sometimes accompanied by empirical studies
 
 Methodological Contributions
-    - New approaches to conducting research
-
+- New approaches to conducting research
 Theoretical Contributions
-    - Improved concepts/frameworks
-    - Validate through empirical work
+- Improved concepts/frameworks
+- Validate through empirical work
 
 Dataset Contributions
-    - New data corpus for further study
-
+- New data corpus for further study
 Survey Contributions
-    - Meta-analyses
+- Meta-analyses
 
 Opinion Contributions
-    - Persuasive essays
-    - Though called "opinions", they're rooted in data
-    - Basically a paper showing someone's interpretation
+- Persuasive essays
+- Though called "opinions", they're rooted in data
+- Basically a paper showing someone's interpretation
 
 
 ## Interaction in 4-Second Bursts
 Mobile devices take away focus from other actions
-    - People often have to put themselves in less taxing situations in order to focus
-    - Interacting with a mobile device competes with the same resources to navigate an environment
+- People often have to put themselves in less taxing situations in order to focus
+- Interacting with a mobile device competes with the same resources to navigate an environment
 Think of human action as a series of interactions
-    - Need to contextualize self in an environment
+- Need to contextualize self in an environment
 
 ### Research Competition Framework
 In mobility, person must constantly switch between different inputs to understand environment
 
 Four resource assumptions
-    - Functional modularity
-        - Cognitive systems are in subsystems
-    - Parallel module operation
-        - Subsystems can parallelize
-    - Limited capacity
-        - Cognitive modules are limited in capacity with respect to time or perception
-    - Serial central operation
-        - Coordination of modules is serial
+- Functional modularity
+    - Cognitive systems are in subsystems
+- Parallel module operation
+    - Subsystems can parallelize
+- Limited capacity
+    - Cognitive modules are limited in capacity with respect to time or perception
+- Serial central operation
+    - Coordination of modules is serial
 
 Five competition assumptions
-    - Multitasking
-    - Resource pooling
-    - Task differences
-        - Some tasks require more resources
-    - Preferenctial resource sharing
-    - Resource-depletion penalty
-        - Tasks lacking resources are slowed or terminated
+- Multitasking
+- Resource pooling
+- Task differences
+    - Some tasks require more resources
+- Preferenctial resource sharing
+- Resource-depletion penalty
+    - Tasks lacking resources are slowed or terminated
 
 Multitasking interference
-    - Structural
-        - Multiple tasks compete for peripheral resources
-    - Capacity
+- Structural
+    - Multiple tasks compete for peripheral resources
+- Capacity
 
 Conducted a study tasking participants with using a mobile device while travelling through different environments
 
@@ -84,22 +82,22 @@ Also found a significant difference in how often a participant looked away.
 Provided a box of "cultural probes" to people from diverse communities in hopes that it would increase interaction
 
 Postcards
-    - With questions on back
-    - Informal
+- With questions on back
+- Informal
 
 Maps
-    - Asked questions about where people had been/would like to go
-    - Asked them to mark various things on the map
+- Asked questions about where people had been/would like to go
+- Asked them to mark various things on the map
 
 Camera
-    - Requested images of specific items or just whatever the person wanted
+- Requested images of specific items or just whatever the person wanted
 
 Photo Album
-    - Tell a story in pictures
-    - Record media intake
+- Tell a story in pictures
+- Record media intake
 
 Approach tech research like designers instead of scientists
 
 Waited for responses
 Didn't publish a holistic review of it.  Instead used it as a basis for proposals
-    - It was basically a system of performing interviews but done in a much more free-form manner
+- It was basically a system of performing interviews but done in a much more free-form manner
