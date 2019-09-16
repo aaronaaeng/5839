@@ -1,7 +1,7 @@
 ---
 layout: category-post
 title:  "RA3: Formative Research"
-date:   2019-09-15 12:10:00 -0700
+date:   2019-09-14 12:10:00 -0700
 categories: general
 ---
 
