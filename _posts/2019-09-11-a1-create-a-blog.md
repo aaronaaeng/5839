@@ -9,4 +9,4 @@ My name is Aaron Aaeng.  I use he/him pronouns.
 
 Because I switched into the class very late, I was not there for the first two weeks of classes.  My first day of attendance was September 9th.  I will be uploading the makeup reading assignments shortly.
 
-![Me]({{ "5839/assets/Profile.png" }}){: .center-image }
+![Me]({{ "https://aaronaaeng.github.io/5839/assets/Profile.png" }}){: .center-image }
